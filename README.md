@@ -2,8 +2,9 @@
 
 To start Expo dev server:
 
-``
+
+```
 npm install
 
 npm run start
-``
+```

@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e9e37ee-0030-49f4-a9ce-f210920c710c"
+      }
+    },
+    "owner": "marlq"
   }
 }
